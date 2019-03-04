@@ -83,7 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #5b88b7;
+		/*background: #5b88b7;*/
+		background: #1A364B;
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
