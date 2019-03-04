@@ -2161,7 +2161,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/group_pic.png");
+		background-image: url("../../images/header3.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2327,7 +2327,7 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #000;
+					color: #FFF;
 					font-weight: 500;
 					text-decoration: none;
 					border: 0;
