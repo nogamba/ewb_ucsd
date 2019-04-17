@@ -1916,6 +1916,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		cursor: default;
 		list-style: none;
+		align-items: center;
 	}
 
 		ul.icons li {
@@ -2447,7 +2448,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #5b88b7;
+		background: #2C4255;
 		color: #fff;
 	}
 
@@ -2471,7 +2472,7 @@ input, select, textarea {
 
 			#footer .contact p {
 				text-align: center;
-				margin: 0 0 3em 0;
+				margin: 0 0 1em 0;
 			}
 
 		#footer .copyright {
@@ -3121,7 +3122,7 @@ input, select, textarea {
 					float: right;
 					width: 800;
 					height: 600;
-					
+
 
 				}
 
