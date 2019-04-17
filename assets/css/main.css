@@ -3112,4 +3112,17 @@ input, select, textarea {
 						margin-bottom: 2em;
 					}
 
+			/* Calendar */
+
+			.calendar {
+					border-left: 2em;
+					margin-left: 2em;
+					margin-bottom: 2em;
+					float: right;
+					width: 800;
+					height: 600;
+					
+
+				}
+
 	}
