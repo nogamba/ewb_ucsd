@@ -2467,9 +2467,10 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0 6em 0;
+		padding: 6em 0 1em 0;
 		background: #2C4255;
 		color: #fff;
+		text-align: center;
 	}
 
 		#footer .icon.circled {
